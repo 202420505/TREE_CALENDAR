@@ -253,7 +253,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 
-- By email: Moonlight10529@gmail.com
+- By email: moonlight10529@gmail.com
 
 
-- By visiting this page on our website: [Moonsparkle.tech](https://Moonsparkle.tech)
+- By visiting this page on our website: [moonsparkle.tech](https://moonsparkle.tech)
