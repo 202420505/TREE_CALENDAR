@@ -8,7 +8,7 @@ When this Policy mentions "We", "Us," and "Our" it refers to TREE CALENDAR and i
 
 This Privacy Policy is governed by our [Terms of Services](include_website_tos_from_project).
 
-For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at mrq.develop@hotmail.com.
+For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at [mrq.develop@hotmail.com](mailto:mrq.develop@hotmail.com).
 
 ## 1. INFORMATION WE COLLECT FROM YOU
 We collect the information You provide to us and this information is necessary for the adequate performance of the contractual arrangement which is in place between You and us and allow us to comply with our legal obligations.
