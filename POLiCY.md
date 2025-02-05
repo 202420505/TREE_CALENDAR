@@ -1,14 +1,14 @@
 # PRIVACY POLICY
 
-Your privacy is important to us, so TREE CALENDAR, a service provider based in the Korea, Republic of South Korea, has created the following Privacy Policy ("Policy") to let you know what information we collect when you visit our Site http://moonsparkle.tech ("Site"), why we collect it and how we use it.
+Your privacy is important to us, so TREE CALENDAR, a service provider based in the Korea, Republic of South Korea, has created the following Privacy Policy ("Policy") to let you know what information we collect when you visit our Site https://moonsparkle.tech ("Site"), why we collect it and how we use it.
 
 The terms "You," "Your," "Yours" and "User" refer to the entity/person/organization using our Site.
 When this Policy mentions "We", "Us," and "Our" it refers to TREE CALENDAR and its subsidiaries and affiliates.
 
 
-This Privacy Policy is governed by our [Terms of Services](include_website_tos_from_project).
+This Privacy Policy is governed by our [Terms of Services]().
 
-For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at moonlight10529@gmail.com.
+For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at mrq.develop@hotmail.com.
 
 ## 1. INFORMATION WE COLLECT FROM YOU
 We collect the information You provide to us and this information is necessary for the adequate performance of the contractual arrangement which is in place between You and us and allow us to comply with our legal obligations.
@@ -62,4 +62,8 @@ We assume that all Users of this Site have carefully read this document and agre
 
 ## 10. FURTHER INFORMATION
 If you have any further questions regarding the data we collect, or how we use it, then please feel free to contact us at the details as indicated above.
+
+## 11. Contact
+- By email: mrq.develop@hotmail.com
+- By visiting our page: [moonsparkle.tech](https://moonsparkle.tech)
 
