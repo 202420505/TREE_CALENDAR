@@ -1,0 +1,65 @@
+# PRIVACY POLICY
+
+Your privacy is important to us, so TREE CALENDAR, a service provider based in the Korea, Republic of South Korea, has created the following Privacy Policy ("Policy") to let you know what information we collect when you visit our Site http://moonsparkle.tech ("Site"), why we collect it and how we use it.
+
+The terms "You," "Your," "Yours" and "User" refer to the entity/person/organization using our Site.
+When this Policy mentions "We", "Us," and "Our" it refers to TREE CALENDAR and its subsidiaries and affiliates.
+
+
+This Privacy Policy is governed by our [Terms of Services](include_website_tos_from_project).
+
+For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at moonlight10529@gmail.com.
+
+## 1. INFORMATION WE COLLECT FROM YOU
+We collect the information You provide to us and this information is necessary for the adequate performance of the contractual arrangement which is in place between You and us and allow us to comply with our legal obligations.
+
+ - Account Signup Information. When You create the account, we ask You to provide the signup information, such as Email, Name.
+ - Login information. We collect Login information if You are logging to our account with Authentication Data.
+
+
+
+## 2. THE WAY WE USE YOUR INFORMATION
+We process your information adhering to the general data processing principles.
+We will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate business interests.
+
+
+## 3. COOKIES
+We do not use cookies or other tracking technologies.
+
+
+## 4. SENSITIVE INFORMATION
+We do not collect sensitive information such as political opinions, religious or philosophical beliefs, racial or ethnic origin, genetic data, biometric data, health data or data related a sexual orientation.
+Please do not send, upload, or provide us any sensitive data and contact us using the contact details below if you believe that we might have such information. We have a right to delete any information we believe it might contain sensitive data.
+
+
+## 5. RETENTION
+We retain your personal information to provide services to you and as otherwise necessary to comply with our legal obligation, resolve disputes, and enforce our agreements.
+We will retain your personal information as long as we need it to provide services to you, unless we are otherwise required by law or regulations to retain your personal information longer.
+
+
+## 6. YOUR RIGHTS
+You are entitled to a range of rights regarding the protection of your personal information. Those rights are:
+
+ - The right to access the information we have about you. If you wish to access your personal information that we collect, you can do so at any time by contacting us using the contact details provided below.
+ - The right to rectify inaccurate information about you. You can correct, update or request deletion of your personal information by contacting us using the contact details provided below.
+ - The right to object the processing. When we rely on your consent to process your personal information, you may withdraw consent at any time by contacting us using the contact details provided below. This will not affect the lawfulness of processing prior to the withdrawal of your consent.
+ - The right to lodge a complaint. You can raise questions or complaints to the national Data Protection Agency in your country of residence in the event where your rights may have been infringed. However, we recommend attempting to reach a peaceful resolution of the possible dispute by contacting us first.
+ - The right to erase any data concerning you. You may demand erasure of data without undue delay for legitimate reasons, e.g. where data is no longer necessary for the purposes it was collected, or where the data has been unlawfully processed.
+
+
+
+## 7. APPLICATION OF POLICY
+This Policy was created with the help of the [TermsHub Privacy Policy Generator](https://termshub.io/privacy-policy?utm_source=referral&utm_medium=generated_documents&utm_campaign=referral_documents&utm_content=pp_th_text) and applies only to the services offered by our Company. Our Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include our services or other sites linked from our Site or Services.
+
+
+## 8. AMENDMENTS
+Our Policy may change from time to time. We will post any Policy changes on our Site and, if the changes are significant, we may consider providing a more explicit notice (including, for certain services, email notification of Policy changes).
+
+
+## 9. ACCEPTANCE OF THIS POLICY
+We assume that all Users of this Site have carefully read this document and agree to its contents. If someone does not agree with this Policy, they should refrain from using our Site. We reserve the right to change our Policy at any time and inform by using the way as indicated in Section 8. Continued use of this Site implies acceptance of the revised Policy.
+
+
+## 10. FURTHER INFORMATION
+If you have any further questions regarding the data we collect, or how we use it, then please feel free to contact us at the details as indicated above.
+
