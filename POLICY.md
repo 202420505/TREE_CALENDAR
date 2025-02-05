@@ -6,7 +6,7 @@ The terms "You," "Your," "Yours" and "User" refer to the entity/person/organizat
 When this Policy mentions "We", "Us," and "Our" it refers to TREE CALENDAR and its subsidiaries and affiliates.
 
 
-This Privacy Policy is governed by our [Terms of Services]().
+This Privacy Policy is governed by our [Terms of Services](include_website_tos_from_project).
 
 For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at mrq.develop@hotmail.com.
 
@@ -20,6 +20,13 @@ We collect the information You provide to us and this information is necessary f
 
 ## 2. THE WAY WE USE YOUR INFORMATION
 We process your information adhering to the general data processing principles.
+We may use the information we collect through our Site for a number of reasons, including to:
+
+ - to create account
+ - to identify user
+ - to stay connected
+ - to ensure data security and prevent fraud
+
 We will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate business interests.
 
 
@@ -34,10 +41,18 @@ Please do not send, upload, or provide us any sensitive data and contact us usin
 
 ## 5. RETENTION
 We retain your personal information to provide services to you and as otherwise necessary to comply with our legal obligation, resolve disputes, and enforce our agreements.
-We will retain your personal information as long as we need it to provide services to you, unless we are otherwise required by law or regulations to retain your personal information longer.
+We will retain your personal information not longer than you keep your account, unless we are otherwise required by law or regulations to retain your personal information longer.
+If you would like to stop us using your personal information, you shall request that we erase your personal information and close your Account. Please note that even after deletion of your account we may keep some of your information for tax, legal reporting and auditing obligations.
 
 
-## 6. YOUR RIGHTS
+## 6. SECURITY
+We have implemented security measures designed to protect the personal information you share with us, including physical, electronic and procedural measures. Among other things, we regularly monitor our systems for possible vulnerabilities and attacks.
+Regardless of the measures and efforts taken by us, the transmission of information via internet, email or text message is not completely secure. We do not guarantee the absolute protection and security of your personal information.
+We therefore encourage you to avoid providing us or anyone with any sensitive information of which you believe its disclosure could cause you substantial or irreparable harm.
+If you have any questions regarding the security of our Site or Services, you are welcome to contact us at mrq.develop@hotmail.com.
+
+
+## 7. YOUR RIGHTS
 You are entitled to a range of rights regarding the protection of your personal information. Those rights are:
 
  - The right to access the information we have about you. If you wish to access your personal information that we collect, you can do so at any time by contacting us using the contact details provided below.
@@ -48,22 +63,17 @@ You are entitled to a range of rights regarding the protection of your personal 
 
 
 
-## 7. APPLICATION OF POLICY
-This Policy was created with the help of the [TermsHub Privacy Policy Generator](https://termshub.io/privacy-policy?utm_source=referral&utm_medium=generated_documents&utm_campaign=referral_documents&utm_content=pp_th_text) and applies only to the services offered by our Company. Our Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include our services or other sites linked from our Site or Services.
+## 8. APPLICATION OF POLICY
+This Policy was created with the help of the [Privacy Policy Generator from TermsHub](https://termshub.io/privacy-policy?utm_source=referral&utm_medium=generated_documents&utm_campaign=referral_documents&utm_content=pp_th_text) and applies only to the services offered by our Company. Our Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include our services or other sites linked from our Site or Services.
 
 
-## 8. AMENDMENTS
+## 9. AMENDMENTS
 Our Policy may change from time to time. We will post any Policy changes on our Site and, if the changes are significant, we may consider providing a more explicit notice (including, for certain services, email notification of Policy changes).
 
 
-## 9. ACCEPTANCE OF THIS POLICY
-We assume that all Users of this Site have carefully read this document and agree to its contents. If someone does not agree with this Policy, they should refrain from using our Site. We reserve the right to change our Policy at any time and inform by using the way as indicated in Section 8. Continued use of this Site implies acceptance of the revised Policy.
+## 10. ACCEPTANCE OF THIS POLICY
+We assume that all Users of this Site have carefully read this document and agree to its contents. If someone does not agree with this Policy, they should refrain from using our Site. We reserve the right to change our Policy at any time and inform by using the way as indicated in Section 9. Continued use of this Site implies acceptance of the revised Policy.
 
 
-## 10. FURTHER INFORMATION
+## 11. FURTHER INFORMATION
 If you have any further questions regarding the data we collect, or how we use it, then please feel free to contact us at the details as indicated above.
-
-## 11. Contact
-- By email: mrq.develop@hotmail.com
-- By visiting our page: [moonsparkle.tech](https://moonsparkle.tech)
-
